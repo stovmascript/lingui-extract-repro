@@ -1,0 +1,46 @@
+{
+  "Bar": {
+    "translation": "Bar (EN)",
+    "origin": [
+      [
+        "src/App.js",
+        20
+      ]
+    ]
+  },
+  "Baz": {
+    "translation": "Baz (EN)",
+    "origin": [
+      [
+        "src/App.js",
+        23
+      ]
+    ]
+  },
+  "Foo": {
+    "translation": "Foo (EN)",
+    "origin": [
+      [
+        "src/App.js",
+        17
+      ]
+    ]
+  },
+  "Test": {
+    "translation": "Test (EN)",
+    "origin": [
+      [
+        "src/App.js",
+        8
+      ],
+      [
+        "src/App.js",
+        11
+      ],
+      [
+        "src/App.js",
+        14
+      ]
+    ]
+  }
+}
