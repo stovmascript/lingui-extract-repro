@@ -1,0 +1,25 @@
+{
+  "name": "lingui-extract-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@lingui/macro": "^2.8.3",
+    "@lingui/react": "^2.8.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@lingui/cli": "^2.8.3",
+    "babel-plugin-macros": "^2.6.1",
+    "parcel-bundler": "^1.12.3"
+  }
+}

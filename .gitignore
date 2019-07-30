@@ -1,0 +1,6 @@
+.cache
+dist
+node_modules
+src/locales/_build
+src/locales/**/*.js
+src/locales/**/*.mo
